@@ -1,0 +1,17 @@
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\bin\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.exe
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\bin\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.deps.json
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\bin\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.runtimeconfig.json
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\bin\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.dll
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\bin\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.pdb
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.vbproj.AssemblyReference.cache
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.Matriz.resources
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.vbproj.GenerateResource.cache
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.AssemblyInfoInputs.cache
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.AssemblyInfo.vb
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.vbproj.CoreCompileInputs.cache
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.dll
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\refint\examenFranciscoJavierRodriguezGalindo.dll
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.pdb
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\examenFranciscoJavierRodriguezGalindo.genruntimeconfig.cache
+C:\Users\frodr\source\repos\examenFranciscoJavierRodriguezGalindo\obj\Debug\net6.0-windows\ref\examenFranciscoJavierRodriguezGalindo.dll
